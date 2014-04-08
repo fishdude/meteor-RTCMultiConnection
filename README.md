@@ -3,8 +3,8 @@ meteor-RTCMultiConnection
 
 **Meteor package for RTCMultiConnection- a webRTC api wrapper for all your cross-browser media streaming needs!**
 
-*Live demo's: https://www.webrtc-experiment.com/RTCMultiConnection/
-*Source: https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RTCMultiConnection
+* Live demo's: https://www.webrtc-experiment.com/RTCMultiConnection/
+* Source: https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RTCMultiConnection
 
 
 <h4>example usage:</h4>
