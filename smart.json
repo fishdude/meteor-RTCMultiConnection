@@ -1,0 +1,9 @@
+{
+  "name": "RTCMultiConnection",
+  "description": "A library for cross-browser media streaming; screen sharing; data/file sharing; renegotiation; and much more. An all-in-one solution for RTCWeb API!",
+  "homepage": "",
+  "author": "Daniel Fischer <d.n.fischer9@gmail.com> (http://github/fishdude)",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
