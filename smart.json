@@ -3,7 +3,7 @@
   "description": "A library for cross-browser media streaming; screen sharing; data/file sharing; renegotiation; and much more. An all-in-one wrapper for RTCWeb API packaged for Meteor!",
   "homepage": "http://github.com/fishdude/meteor-RTCMultiConnection",
   "author": "Daniel Fischer <d.n.fischer9@gmail.com> (http://github.com/fishdude)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/fishdude/meteor-RTCMultiConnection.git",
   "packages": {}
 }
